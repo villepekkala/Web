@@ -1,0 +1,2 @@
+Käytin vakio muuttujia, esim primary color, radius background color yms. ja käytin niitä sitten.
+Sisäkkäiset elementit kuten navigaatiossa kun linkki on aktiivisena tai hiiri on päällä niin x asia tapahtuu
